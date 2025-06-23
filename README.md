@@ -10,6 +10,7 @@ Hii, I'm Nikhil Sahu<br>A Passionate Backend Developer from India
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=simhanik&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=simhanik&theme=one_dark_pro&hide_border=false)<br/>
+[![Simhanik's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhanik)](https://github.com/simhanik/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simhanik&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
